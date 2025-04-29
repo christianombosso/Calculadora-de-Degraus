@@ -22,9 +22,13 @@ Diferentemente do problema original, que utilizava valores fixos, esta calculado
 - Altura do degrau (em centímetros): Defina a altura de cada degrau. O valor deve estar entre 5 e 50 cm.
 - Velocidade da bola (em metros por segundo): Defina a velocidade inicial da bola. O valor deve estar entre 0.1 e 10 m/s.
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - ✅ Interface gráfica (Swing)
 - ✅ Validação de entrada
 - ✅ Calculo de lançamento
 - ✅ Erros tratados com mensagens
+
+## 🖥️ IDE Utilizada:
+
+- NetBeans
